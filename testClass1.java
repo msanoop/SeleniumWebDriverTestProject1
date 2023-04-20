@@ -1,10 +1,8 @@
 public class testClass1 {
 
-    String s  = "Test";
-    String g = "Get Chnage";
-
-    test ;
-
+    public static void main (String[] args)
+    {
+        System.out.println("New Java Tests");
+    }
 
 }
-updated
