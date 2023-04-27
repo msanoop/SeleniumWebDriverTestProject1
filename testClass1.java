@@ -5,4 +5,6 @@ public class testClass1 {
         System.out.println("New Java Tests");
     }
 
+    private static final String TAG = "testClass1";
+    String a = "Test";
 }
